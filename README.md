@@ -1,5 +1,3 @@
-# docker_pull_sim
-
 # Docker Pull UI Simulator / Docker 镜像拉取界面模拟器
 
 ## English Introduction
