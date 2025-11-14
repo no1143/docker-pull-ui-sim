@@ -1,6 +1,7 @@
 # Docker Pull UI Simulator / Docker 镜像拉取界面模拟器
 
-<img width="421" height="78" alt="image" src="https://github.com/user-attachments/assets/c31949af-d107-4dd0-9cec-76e9147dd196" />
+<img width="450" height="114" alt="image" src="https://github.com/user-attachments/assets/ed20747e-b2af-4c97-a2f3-be8a2fe30a11" />
+
 
 ## English Introduction
 This project is a Python-based terminal UI simulator that replicates the visual style of Docker image pulling.  
